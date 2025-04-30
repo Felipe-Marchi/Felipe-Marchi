@@ -1,6 +1,5 @@
 # Felipe Marchi
-## Hello, Devs!!
-Formado em Análise e desenvolvimento de sistemas na Univates e cursos de programação na Alura.
+Formado em Análise e desenvolvimento de sistemas e cursando Engenharia de Software.
 
 Atualmente trabalho como desenvolvedor de software trainee.
 ## Ferramentas e tecnologias
