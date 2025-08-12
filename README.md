@@ -1,7 +1,8 @@
 # Felipe Marchi
-Formado em Análise e desenvolvimento de sistemas e cursando Engenharia de Software.
+Desenvolvedor de Software.
 
-Atualmente trabalho como desenvolvedor de software trainee.
+
+Formado em Análise e desenvolvimento de sistemas e cursando Engenharia de Software.
 ## Ferramentas e tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> 
 ## Contatos:
